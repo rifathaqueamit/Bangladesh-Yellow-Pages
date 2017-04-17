@@ -1,0 +1,97 @@
+.header{
+	position: relative;
+	color:black;
+	background-color: lightgray;
+	width: 900px;
+	height: 30px;
+	margin-left: 50%;
+	left: -450px;
+}
+
+.titlebox{
+	position: relative;
+	clear: left;
+	width: 900px;
+	height: 130px;
+	margin-left: 50%;
+	left: -450px;
+	background-color: yellow;
+	padding-top: 0px;
+}
+
+.tabbox{
+	position: relative;
+	clear: left;
+	width: 900px;
+	height: 50px;
+	margin-left: 50%;
+	left: -450px;
+	background-color: gray;
+}
+
+.searchbox{
+	position: relative;
+	clear: left;
+	width: 900px;
+	height: 150px;
+	margin-left: 50%;
+	left: -450px;
+	background-color: lightgray;
+}
+
+
+.categoriesbox{
+	position: relative;
+	clear: left;
+	width: 900px;
+	height: auto;
+	margin-left: 50%;
+	left: -450px;
+	background-color: white;
+}
+
+.tablestyle1{
+	width: 1100px;
+}
+
+.tableitemstyle1{
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	table-layout: fixed;
+}
+
+.tableitemstyle1:hover{
+	text-decoration: underline;
+}
+
+
+
+body{
+	margin-top: 0px;
+}
+
+.buttonstyle1{
+	width: 70px;
+	height: 30px; 
+	float: right; 
+	border: none;
+}
+
+.buttonstyle2{
+	width: 70px;
+	height: 30px; 
+	border: none;
+	float: left;
+	width: 100px;
+	height: 50px;
+	background-color: lightgray;
+}
+
+.buttonstyle1:hover{
+	color:red;
+}
+
+.buttonstyle2:hover{
+	color:blue;
+}
